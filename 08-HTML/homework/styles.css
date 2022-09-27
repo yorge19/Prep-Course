@@ -1,0 +1,22 @@
+h1 { 
+    color: mediumpurple;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color:rgb(167, 149, 199);
+    padding: 50px;
+    border: 15px solid rgb(190, 197, 235);
+    
+
+}
+
+#spanId {
+    font-size: 18px;    
+    margin: 50px;       
+ }
